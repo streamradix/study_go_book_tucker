@@ -1,0 +1,10 @@
+# common whitelist
+*
+!*/
+!.gitignore
+!README.md
+
+# go whitelist
+!*.go
+!go.mod
+!go.sum
